@@ -1,4 +1,4 @@
-https://tiptaptoe-saloni.netlify.app/
+﻿https://tiptaptoe-saloni.netlify.app/
 
 Game Rules:
 1. You will see a tank with some fishes.
@@ -16,3 +16,6 @@ Telugu translation by Vineet Sagar:
 3. మీ లక్ష్యం వారి స్థానాలను గుర్తుంచుకోవడం మరియు వేరుశెనగలను తినిపించడం.
 4. చేపలు ఉన్న అన్ని కణాలను ఎంచుకోండి మరియు క్లిక్ చేయండి- GO!
 5. హనీ, మీరు చాలా తప్పులు చేయలేరు.
+
+Hello mam,
+	I am Amit Raj.I really love your game my first time scroe is 32.I have moved from Burdwan(West Bengal) to Bangalore a day before yesterday. Every thing is fine here but i am in quarantine till 18 July 2020. If every thing is fine we will surely meet and give you treat for completing my graduation this year.
